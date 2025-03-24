@@ -47,11 +47,11 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
           ),
       ),
-      //*****//
-      //     //
-      //下边是主页内容//
-      //     //
-      //*****//
+      //**************//
+      //             //
+      // 下边是主页内容 //
+      //             //
+      //**************//
       body: Center(
 
         child: Column(
@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'Demo！',
             ),
             Text(
               '等待编辑',
